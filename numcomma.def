@@ -1,0 +1,6 @@
+LIBRARY NUMCOMMA
+DESCRIPTION 'Numpad Comma'
+EXPORTS
+   HookInit @1
+   HookKill
+   WaitLoaded
